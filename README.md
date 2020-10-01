@@ -8,5 +8,7 @@ Usage:
 Difficulty can be one of the following:
 
 `1`: Easy
+
 `2`: Medium
+
 `3`: Hard
